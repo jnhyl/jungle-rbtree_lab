@@ -1,5 +1,5 @@
-## 크래프톤 정글 RBTree 과정의 개인 풀이를 올려놓은 public 저장소입니다.
----
+# 크래프톤 정글 RBTree 과정의 개인 풀이를 올려놓은 public 저장소입니다.
+
 private 저장소에 올려놓은 버전이 있으나 rb-tree-visualizer\(이하 visualizer라고 칭함\) 프로그램으로 인해 폴더 구조가 처음이랑 많이 달라져서 아예 새로 만들어 public 저장소에 올립니다.
 아직 visualizer 프로그램에 익숙하지 않습니다. 충분히 숙지했다고 생각이 되면 visualizer 프로그램을 사용한 버전 및 RBTree 시각화를 위한 테스트 코드를 public 저장소에 올려보겠습니다.
 
